@@ -18,3 +18,6 @@ PCB展示：
 ![3](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%9B%BE%E7%89%873.jpg)
 
 
+[![Watch the video](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%AA%92%E4%BD%931.mp4)](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%AA%92%E4%BD%931.mp4)
+
+
