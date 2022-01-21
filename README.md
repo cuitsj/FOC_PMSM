@@ -9,18 +9,16 @@
 
 原理图：
 
-![1](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%9B%BE%E7%89%875.png)
+![1](readme/图片5.png)
 
-PCB展示：
+PCB 3D展示：
 
-![2](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%9B%BE%E7%89%872.png)
+![2](readme/图片2.png)
 
 实物展示：
 
-![3](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%9B%BE%E7%89%873.jpg)
+![3](readme/图片3.jpg)
 
-演示视频：
-
-[![Watch the video](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%AA%92%E4%BD%931.mp4)](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%AA%92%E4%BD%931.mp4)
+[演示视频下载链接](https://gitee.com/cuitsj/foc_-pmsm/blob/master/readme/%E5%AA%92%E4%BD%931.mp4)
 
 
